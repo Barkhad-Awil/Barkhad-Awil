@@ -4,6 +4,7 @@
 
 Hello, I'm Barkhad a passionate software developer with a keen interest in both frontend and backend technologies.
 My enthusiasm extends to the world of data structures and algorithms, where I enjoy solving complex problems and optimizing solutions. With a passion for creating user-friendly experiences and a strong foundation in algorithmic thinking, I'm committed to delivering innovative solutions that make a meaningful impact.
+
 ---
 
 ### 🧰 Languages and Tools
