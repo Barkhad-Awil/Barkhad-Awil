@@ -1,4 +1,4 @@
-👨‍💻 * Barkhad Awil
+👨‍💻 # Barkhad Awil
 
 **`Software Engineer | JavaScript Developer | Java Developer | Tech Enthusiast | Environmentalist`**
 
@@ -20,12 +20,16 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 #
 
+### 📊 Stats
+
+![Barkhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakrhad-Awil&show_icons=true&theme=gruvbox)
+
+
+#
+
 🌱 Currently exploring advanced concepts in Java, particularly Data Structures and Algorithms. Actively working on JavaScript projects, deriving joy from building solutions that tackle real-world problems.
-
 🌿 Environmentalist: Advocate for sustainable tech solutions and incorporating eco-friendly practices into the digital world.
-
 💼 I'm currently working at Mandela Group Ltd.
-
 🚀 Enjoyment Factor: Building projects and solving real-world problems is not just a job but a passion.
 
 📫 Let's connect:
