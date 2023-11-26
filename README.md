@@ -1,4 +1,4 @@
-👨‍💻 # Barkhad Awil
+# 👨‍💻 Barkhad Awil
 
 **`Software Engineer | JavaScript Developer | Java Developer | Tech Enthusiast | Environmentalist`**
 
@@ -33,7 +33,16 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 💼 I'm currently working at Mandela Group Ltd.
 🚀 Enjoyment Factor: Building projects and solving real-world problems is not just a job but a passion.
 
-📫 Let's connect:
+
+### 📫 Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/AwilBarkhad)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
+&nbsp;&nbsp;
+
 - [LinkedIn](https://www.linkedin.com/in/barkhad-awil-farah-8b920824b)
 - [Twitter](https://twitter.com/AwilBarkhad)
   
