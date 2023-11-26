@@ -23,7 +23,7 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 ### 📊 Stats
 
-[Barkhad's github stats](github-readme-stats-b7gopj89s-barkhad-awils-projects.vercel.app/api?username=barkhadAwil&show_icons=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-barkhad-awils-projects.vercel.app/api?username=Bakrhad-Awil)](https://github.com/Barkhad-Awil/github-readme-stats)
 
 
 #
