@@ -36,15 +36,12 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 ### 📫 Connect with me:
 
-[(./img/twitter-light.svg)](https://twitter.com/AwilBarkhad)
-[(./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
+[![Twitter Light](./img/twitter-light.svg)](https://twitter.com/AwilBarkhad) &nbsp;&nbsp;
+[![Twitter Dark](./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
 &nbsp;&nbsp;
-[(./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
-&nbsp;&nbsp;
+[![LinkedIn Light](./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b) &nbsp;&nbsp;
+[![LinkedIn Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
 
-- [LinkedIn](https://www.linkedin.com/in/barkhad-awil-farah-8b920824b)
-- [Twitter](https://twitter.com/AwilBarkhad)
   
 👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
 
