@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Hello, I'm Barkhad Awil!
 
-<!--
-**Barkhad-Awil/Barkhad-Awil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | JavaScript Developer | ReactJS Enthusiast | Java Developer | Tech Enthusiast | Environmentalist
 
-Here are some ideas to get you started:
+🔧 Skills:
+- **Languages:** Java and JavaScript
+- **Frameworks:** ReactJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring advanced concepts in Java, particularly Data Structures and Algorithms. Actively working on JavaScript projects, deriving joy from building solutions that tackle real-world problems.
+
+🌿 Environmentalist: Advocate for sustainable tech solutions and incorporating eco-friendly practices into the digital world.
+
+💼 I'm currently working at Mandela Group Ltd.
+
+🚀 Enjoyment Factor: Building projects and solving real-world problems is not just a job but a passion.
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/barkhad-awil-farah-8b920824b)
+- [Twitter](https://twitter.com/AwilBarkhad)
+  
+👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
+
