@@ -4,7 +4,6 @@
 
 Hello, I'm Barkhad a passionate software developer with a keen interest in both frontend and backend technologies.
 My enthusiasm extends to the world of data structures and algorithms, where I enjoy solving complex problems and optimizing solutions. With a passion for creating user-friendly experiences and a strong foundation in algorithmic thinking, I'm committed to delivering innovative solutions that make a meaningful impact.
-
 ---
 
 ### 🧰 Languages and Tools
@@ -27,7 +26,6 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 [![Barkhd's GitHub stats](https://github-readme-stats-git-master-barkhad-awils-projects.vercel.app/api?username=Barkhad-Awil)](https://github.com/Barkhad-Awil/github-readme-stats)
 
-
 #
 
 - 🌱 Exploring advanced Java concepts, specifically Data Structures and Algorithms.
@@ -36,11 +34,9 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 - 🌿 Environmentalist advocating for sustainable tech solutions.
 - 😻Enjoyment Factor: Building projects and solving real-world problems goes beyond a job—it's a passion!
 
-### 📫 Connect with me:
-
+### 📫 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/barkhad-awil-farah-8b920824b)
 - [Twitter](https://twitter.com/AwilBarkhad)
-
   
 👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
 
