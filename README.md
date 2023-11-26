@@ -5,6 +5,8 @@
 Hello, I'm Barkhad a passionate software developer with a keen interest in both frontend and backend technologies.
 My enthusiasm extends to the world of data structures and algorithms, where I enjoy solving complex problems and optimizing solutions. With a passion for creating user-friendly experiences and a strong foundation in algorithmic thinking, I'm committed to delivering innovative solutions that make a meaningful impact.
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -34,17 +36,11 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 - 🌿 Environmentalist advocating for sustainable tech solutions.
 - 😻Enjoyment Factor: Building projects and solving real-world problems goes beyond a job—it's a passion!
 
-/*
 ### 📫 Connect with me:
-[![Twitter Light](./img/twitter-light.svg)](https://twitter.com/AwilBarkhad) &nbsp;&nbsp;
-[![Twitter Dark](./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
-&nbsp;&nbsp;
-[![LinkedIn Light](./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b) &nbsp;&nbsp;
-[![LinkedIn Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
-*/
+
+- [LinkedIn](https://www.linkedin.com/in/barkhad-awil-farah-8b920824b)
+- [Twitter](https://twitter.com/AwilBarkhad)
 
   
 👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-bCEOMLb8kNtZmX5l4e5xN5bFuH4wsZtHTjzmx9LfUcyNxUp3LbU3uPjU8XKGyvkF" crossorigin="anonymous">
 
