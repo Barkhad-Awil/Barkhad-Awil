@@ -3,8 +3,16 @@
 🚀 Software Engineer | JavaScript Developer | ReactJS Enthusiast | Java Developer | Tech Enthusiast | Environmentalist
 
 🔧 Skills:
-- **Languages:** Java and JavaScript
-- **Frameworks:** ReactJS
+ **Languages:** 
+  - Java <i class="fab fa-java"></i>
+  - JavaScript <i class="fab fa-js"></i>
+  - HTML5 <i class="fab fa-html5"></i>
+  - CSS3 <i class="fab fa-css3-alt"></i>
+  **Frameworks:**
+  - ReactJS <i class="fab fa-react"></i>
+  **Version Control:**
+  - Git <i class="fab fa-git"></i>
+  - GitHub <i class="fab fa-github"></i>
 
 🌱 Currently exploring advanced concepts in Java, particularly Data Structures and Algorithms. Actively working on JavaScript projects, deriving joy from building solutions that tackle real-world problems.
 
