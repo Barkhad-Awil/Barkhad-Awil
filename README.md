@@ -28,11 +28,11 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 #
 
-🌱 Exploring advanced Java concepts, specifically Data Structures and Algorithms.
-🚀 Actively working on JavaScript projects, deriving joy from solving real-world problems.
-💼 Currently employed at Mandela Group Ltd.
-🌿 Environmentalist advocating for sustainable tech solutions.
-😻Enjoyment Factor: Building projects and solving real-world problems goes beyond a job—it's a passion!
+- 🌱 Exploring advanced Java concepts, specifically Data Structures and Algorithms.
+- 🚀 Actively working on JavaScript projects, deriving joy from solving real-world problems.
+- 💼 Currently employed at Mandela Group Ltd.
+- 🌿 Environmentalist advocating for sustainable tech solutions.
+- 😻Enjoyment Factor: Building projects and solving real-world problems goes beyond a job—it's a passion!
 
 /*
 ### 📫 Connect with me:
