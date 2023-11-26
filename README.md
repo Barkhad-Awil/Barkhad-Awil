@@ -36,10 +36,10 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 ### 📫 Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/AwilBarkhad)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
+[(./img/twitter-light.svg)](https://twitter.com/AwilBarkhad)
+[(./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
 &nbsp;&nbsp;
 
