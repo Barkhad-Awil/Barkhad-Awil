@@ -23,7 +23,7 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 
 ### 📊 Stats
 
-![Barkhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakrhad-Awil&show_icons=true&theme=gruvbox)
+![Barkhad's github stats](https://github-readme-stats.vercel.app/api?username=Barkhad Awil)
 
 
 #
@@ -34,13 +34,14 @@ My enthusiasm extends to the world of data structures and algorithms, where I en
 🚀 Enjoyment Factor: Building projects and solving real-world problems is not just a job but a passion.
 
 
+/*
 ### 📫 Connect with me:
-
 [![Twitter Light](./img/twitter-light.svg)](https://twitter.com/AwilBarkhad) &nbsp;&nbsp;
 [![Twitter Dark](./img/twitter-dark.svg)](https://twitter.com/AwilBarkhad)
 &nbsp;&nbsp;
 [![LinkedIn Light](./img/linkedin-light.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b) &nbsp;&nbsp;
 [![LinkedIn Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/barkhad-awil-farah-8b920824b)
+*/
 
   
 👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
