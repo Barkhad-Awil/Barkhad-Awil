@@ -3,14 +3,14 @@
 🚀 Software Engineer | JavaScript Developer | ReactJS Enthusiast | Java Developer | Tech Enthusiast | Environmentalist
 
 🔧 Skills:
- **Languages:** 
+- **Languages:** 
   - Java <i class="fab fa-java"></i>
   - JavaScript <i class="fab fa-js"></i>
   - HTML5 <i class="fab fa-html5"></i>
-  - CSS3 <i class="fab fa-css3-alt"></i>
-  **Frameworks:**
+  - CSS3 <i class="fab fa-css3"></i>
+- **Frameworks:** 
   - ReactJS <i class="fab fa-react"></i>
-  **Version Control:**
+  - **Version Control:** 
   - Git <i class="fab fa-git"></i>
   - GitHub <i class="fab fa-github"></i>
 
@@ -27,4 +27,6 @@
 - [Twitter](https://twitter.com/AwilBarkhad)
   
 👁️‍🗨️ Always eager to learn and collaborate. Open to new opportunities and challenges!
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-bCEOMLb8kNtZmX5l4e5xN5bFuH4wsZtHTjzmx9LfUcyNxUp3LbU3uPjU8XKGyvkF" crossorigin="anonymous">
 
